@@ -11,6 +11,8 @@
 
 I am [Afaq]([https://www.linkedin.com/in/shubhamlondhe1996/](https://www.linkedin.com/in/afaquefarooq/)), a Data and Software Engineer with a passion for solving complex problems and building innovative solutions. With hands-on experience in both data engineering and software development, I love creating efficient, scalable systems that drive meaningful insights. 🎯
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 I mostly work with Python and Cloud based technologies. 🚀
 
 
